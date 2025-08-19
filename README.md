@@ -1,4 +1,7 @@
-# yulu--shared-bike-data-analysis
+# yulu--shared-bike-data-analysis Analyzed Yulu’s electric cycle rental data to uncover factors affecting demand—such as season, weather,
+holidays, and weekdays—using Python and its libraries (pandas, numpy,matplotlib, seaborn) and statistical
+tests (t-test, ANOVA, Kruskal-Wallis, chi-square),Feature engineering .Developed clear visualizations and
+provided actionable recommendations based on data-driven insights.
 yulu - data analysis and hypothesis testing
 Yulu E-Cycle Demand Analysis
 This project involves a comprehensive exploratory data analysis (EDA) of a shared electric cycle rental dataset, focusing on understanding the demand drivers in the Indian market. The dataset contains hourly rental data spanning multiple seasons, weather conditions, holidays, and working days.
